@@ -8,8 +8,10 @@
 <h1>
 	Hello world!  
 </h1>
-
+<h2>올려볼까요?</h2>
 <P>  The time on the server is ${serverTime}. </P>
 <div>Hi Jenkins Deployment</div>
+
+<div>Git Hooks를 동작시키는 merge</div>
 </body>
 </html>
